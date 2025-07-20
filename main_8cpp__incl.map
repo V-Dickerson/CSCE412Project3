@@ -1,0 +1,23 @@
+<map id="src/main.cpp" name="src/main.cpp">
+<area shape="rect" id="Node000001" title="Entry point for the load balancer simulation program." alt="" coords="61,5,156,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,71,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,33,62,70,59,66,95,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="124,226,195,252"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="114,31,156,211,151,212,109,32"/>
+<area shape="rect" id="Node000004" href="$load__balancer_8h.html" title="Declaration of the LoadBalancer class for managing web server requests." alt="" coords="270,79,382,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="146,29,275,71,274,76,145,34"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="271,107,226,125,205,138,187,154,171,182,164,211,159,210,166,180,183,151,202,134,223,120,269,102"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="196,153,253,178"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="310,107,256,145,253,141,307,103"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="481,300,534,326"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="383,99,440,117,468,131,493,151,512,174,522,197,524,222,522,252,516,285,511,285,517,252,519,222,517,198,508,177,489,155,465,136,438,121,381,104"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="399,153,456,178"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="345,103,399,141,396,145,342,107"/>
+<area shape="rect" id="Node000008" href="$request_8h.html" title="Definition of the Request struct for representing network requests." alt="" coords="433,226,507,252"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="383,99,431,117,453,132,471,151,478,166,481,182,479,212,474,211,475,182,473,167,466,154,450,136,429,122,381,104"/>
+<area shape="rect" id="Node000009" href="$web__server_8h.html" title="Declaration of the WebServer class for simulating a web server handling requests." alt="" coords="277,153,375,178"/>
+<area shape="poly" id="edge10_Node000004_Node000009" title=" " alt="" coords="329,105,329,137,323,137,323,105"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="479,251,496,285,492,287,474,253"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="299,181,203,222,201,217,297,176"/>
+<area shape="poly" id="edge12_Node000009_Node000008" title=" " alt="" coords="352,176,433,217,431,221,349,181"/>
+</map>

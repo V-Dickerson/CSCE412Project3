@@ -1,0 +1,12 @@
+<map id="include/request.h" name="include/request.h">
+<area shape="rect" id="Node000001" title="Definition of the Request struct for representing network requests." alt="" coords="91,5,211,31"/>
+<area shape="rect" id="Node000002" href="$load__balancer_8h.html" title="Declaration of the LoadBalancer class for managing web server requests." alt="" coords="73,153,229,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,46,124,80,123,99,128,119,145,151,140,153,123,121,118,100,119,78,133,44"/>
+<area shape="rect" id="Node000005" href="$web__server_8h.html" title="Declaration of the WebServer class for simulating a web server handling requests." alt="" coords="134,79,277,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="171,41,199,77,194,80,167,45"/>
+<area shape="rect" id="Node000003" href="$load__balancer_8cpp.html" title="Implementation of the LoadBalancer class methods." alt="" coords="5,226,153,252"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,191,93,228,89,224,126,187"/>
+<area shape="rect" id="Node000004" href="$main_8cpp.html" title="Entry point for the load balancer simulation program." alt="" coords="177,226,272,252"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="176,187,214,224,210,228,172,191"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="190,118,162,154,158,151,185,115"/>
+</map>
