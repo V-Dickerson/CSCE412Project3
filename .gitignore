@@ -2,3 +2,9 @@ build/
 .vscode/
 
 *.o
+outDebug
+
+load_balancer_logs/*
+
+html/
+latex/
