@@ -5,6 +5,7 @@ build/
 outDebug
 
 load_balancer_logs/*
+!load_balancer_logs/.gitkeep
 
 html/
 latex/
