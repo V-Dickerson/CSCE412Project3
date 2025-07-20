@@ -18,3 +18,5 @@ You will get a few choices:
 In order to rebuild the Doxygen documentation, type `doxygen Doxyfile` in the root directory. 
 
 The relevant files will be generated in a file named `html/`.
+
+However, all documentation will be deployed to `412-project-3.vanessacodes.com` by default on commits to main, through GitHub Actions.

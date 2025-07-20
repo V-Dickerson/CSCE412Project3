@@ -31,7 +31,7 @@ LoadBalancer::LoadBalancer(int num_servers, int time_to_run,
   output_stream << "Number of servers: " << num_servers << std::endl;
   output_stream << "Total cycles to run: " << time_to_run << " cycles"
                 << std::endl;
-  output_stream << "Number of starting requests: " << NUM_STARTING_REQUESTS
+  output_stream << "Number of requests in queue: " << NUM_STARTING_REQUESTS
                 << std::endl;
   output_stream << "Max request cycles: " << max_request_time << " cycles"
                 << std::endl;
